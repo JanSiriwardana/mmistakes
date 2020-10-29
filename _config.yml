@@ -63,7 +63,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "<i class="fab fa-linkedin"></i>"
       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
